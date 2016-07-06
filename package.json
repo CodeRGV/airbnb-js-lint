@@ -1,0 +1,27 @@
+{
+  "name": "airbnb-js-style",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibolmo/airbnb-js-lint.git"
+  },
+  "author": "Olmo Maldonado <ibolmo@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ibolmo/airbnb-js-lint/issues"
+  },
+  "homepage": "https://github.com/ibolmo/airbnb-js-lint#readme",
+  "devDependencies": {
+    "babel-eslint": "^6.1.0",
+    "eslint": "^3.0.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.10.2",
+    "eslint-plugin-jsx-a11y": "^1.5.5",
+    "eslint-plugin-react": "^5.2.2"
+  }
+}
